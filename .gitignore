@@ -48,3 +48,5 @@ App/android/app/release
 App/macos/Runner/GoogleService-Info.plist
 
 App/ios/Runner/GoogleService-Info.plist
+
+App/lib/firebase_options.dart
